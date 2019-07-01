@@ -1,5 +1,6 @@
 # 简单工厂模式、静态工厂方法（Static Factory Method）模式
 
+
 ## 不属于23种GOF设计模式之一
 
 ### 定义
