@@ -201,7 +201,7 @@
     
     *> 访问者模式：在不改变数据结构的前提下，增加作用于一组对象元素的新功能。（Visitor Pattern）
     
-    *> 责任链模式：将请求的发送者和接收者解耦，使的多个对象都有处理这个请求的机会。（Chain of Responsibility Pattern）
+    > 责任链模式：将请求的发送者和接收者解耦，使的多个对象都有处理这个请求的机会。（Chain of Responsibility Pattern）
     
     *> 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
     
