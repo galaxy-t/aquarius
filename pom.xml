@@ -36,6 +36,7 @@
         <module>memento</module>
         <module>observer</module>
         <module>state</module>
+        <module>null-object</module>
     </modules>
 
 </project>
