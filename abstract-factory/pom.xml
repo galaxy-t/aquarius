@@ -10,10 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.galaxyt.aquarius</groupId>
-    <artifactId>abstract_factory</artifactId>
+    <artifactId>abstract-factory</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>abstract_factory</name>
+    <name>abstract-factory</name>
     <description>抽象工场模式</description>
     <url>http://aquarius.galaxyt.com</url>
 

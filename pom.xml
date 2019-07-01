@@ -17,7 +17,7 @@
         <module>singleton</module>
         <module>factory-method</module>
         <module>factory</module>
-        <module>abstract_factory</module>
+        <module>abstract-factory</module>
         <module>builder</module>
         <module>prototype</module>
         <module>adapter</module>
