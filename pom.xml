@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.galaxyt</groupId>
+    <artifactId>aquarius</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <name>aquarius</name>
+    <description>宝瓶座-设计模式</description>
+    <url>http://aquarius.galaxyt.com</url>
+
+
+    <modules>
+        <module>singleton</module>
+        <module>factory-method</module>
+        <module>factory</module>
+        <module>abstract_factory</module>
+        <module>builder</module>
+        <module>prototype</module>
+        <module>adapter</module>
+        <module>bridge</module>
+        <module>filter</module>
+    </modules>
+
+</project>
