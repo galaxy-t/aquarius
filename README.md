@@ -167,9 +167,9 @@
     
     > 组合模式：将对象组合成树形结构以表示“”部分-整体“”的层次结构。（Composite Pattern）
     
-    *> 装饰器模式：动态的给对象添加新的功能。 （Decorator Pattern）
+    > 装饰器模式：动态的给对象添加新的功能。 （Decorator Pattern）
     
-    *> 代理模式：为其他对象提供一个代理以便控制这个对象的访问。（Proxy Pattern）
+    > 代理模式：为其他对象提供一个代理以便控制这个对象的访问。（Proxy Pattern）
     
     *> 亨元（蝇量）模式：通过共享技术来有效的支持大量细粒度的对象。（Flyweight Pattern）
     
