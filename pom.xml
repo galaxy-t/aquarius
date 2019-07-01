@@ -30,6 +30,7 @@
         <module>flyweight</module>
         <module>chain-of-responsibility</module>
         <module>command</module>
+        <module>interpreter</module>
     </modules>
 
 </project>
