@@ -39,6 +39,7 @@
         <module>null-object</module>
         <module>strategy</module>
         <module>template</module>
+        <module>visitor</module>
     </modules>
 
 </project>
