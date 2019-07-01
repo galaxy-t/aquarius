@@ -24,6 +24,7 @@
         <module>bridge</module>
         <module>filter</module>
         <module>composite</module>
+        <module>decorator</module>
     </modules>
 
 </project>

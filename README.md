@@ -165,9 +165,9 @@
 
     > 适配器模式：将一个类的方法接口转换成客户希望的另外一个接口。（Adapter Pattern）
     
-    *> 组合模式：将对象组合成树形结构以表示“”部分-整体“”的层次结构。（Composite Pattern）
+    > 组合模式：将对象组合成树形结构以表示“”部分-整体“”的层次结构。（Composite Pattern）
     
-    *> 装饰模式：动态的给对象添加新的功能。 （Decorator Pattern）
+    *> 装饰器模式：动态的给对象添加新的功能。 （Decorator Pattern）
     
     *> 代理模式：为其他对象提供一个代理以便控制这个对象的访问。（Proxy Pattern）
     
