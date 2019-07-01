@@ -203,7 +203,7 @@
     
     > 责任链模式：将请求的发送者和接收者解耦，使的多个对象都有处理这个请求的机会。（Chain of Responsibility Pattern）
     
-    *> 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
+    > 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
     
     *> **空对象模式（Null Object Pattern）
     
