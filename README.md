@@ -193,9 +193,9 @@
     
     *> 观察者模式：对象间的一对多的依赖关系。（Observer Pattern）
     
-    *> 备忘录模式：在不破坏封装的前提下，保持对象的内部状态。（Memento Pattern）
+    > 备忘录模式：在不破坏封装的前提下，保持对象的内部状态。（Memento Pattern）
     
-    *> 中介者模式：用一个中介对象来封装一系列的对象交互。（Mediator Pattern）
+    > 中介者模式：用一个中介对象来封装一系列的对象交互。（Mediator Pattern）
     
     > 命令模式：将命令请求封装为一个对象，使得可以用不同的请求来进行参数化。（Command Pattern）
     
