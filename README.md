@@ -171,7 +171,7 @@
     
     > 代理模式：为其他对象提供一个代理以便控制这个对象的访问。（Proxy Pattern）
     
-    *> 亨元（蝇量）模式：通过共享技术来有效的支持大量细粒度的对象。（Flyweight Pattern）
+    > 亨元（蝇量）模式：通过共享技术来有效的支持大量细粒度的对象。（Flyweight Pattern）
     
     > 外观模式：对外提供一个统一的方法，来访问子系统中的一群接口。（Facade Pattern）
     
@@ -183,29 +183,29 @@
 
     > 这些设计模式特别关注对象之间的通信。
 
-    > 模板模式：定义一个算法结构，而将一些步骤延迟到子类实现。（Template Pattern）
+    *> 模板模式：定义一个算法结构，而将一些步骤延迟到子类实现。（Template Pattern）
     
-    > 解释器模式：给定一个语言，定义它的文法的一种表示，并定义一个解释器。（Interpreter Pattern）
+    *> 解释器模式：给定一个语言，定义它的文法的一种表示，并定义一个解释器。（Interpreter Pattern）
     
-    > 策略模式：定义一系列算法，把他们封装起来，并且使它们可以相互替换。（Strategy Pattern）
+    *> 策略模式：定义一系列算法，把他们封装起来，并且使它们可以相互替换。（Strategy Pattern）
     
-    > 状态模式：允许一个对象在其对象内部状态改变时改变它的行为。（State Pattern）
+    *> 状态模式：允许一个对象在其对象内部状态改变时改变它的行为。（State Pattern）
     
-    > 观察者模式：对象间的一对多的依赖关系。（Observer Pattern）
+    *> 观察者模式：对象间的一对多的依赖关系。（Observer Pattern）
     
-    > 备忘录模式：在不破坏封装的前提下，保持对象的内部状态。（Memento Pattern）
+    *> 备忘录模式：在不破坏封装的前提下，保持对象的内部状态。（Memento Pattern）
     
-    > 中介者模式：用一个中介对象来封装一系列的对象交互。（Mediator Pattern）
+    *> 中介者模式：用一个中介对象来封装一系列的对象交互。（Mediator Pattern）
     
-    > 命令模式：将命令请求封装为一个对象，使得可以用不同的请求来进行参数化。（Command Pattern）
+    *> 命令模式：将命令请求封装为一个对象，使得可以用不同的请求来进行参数化。（Command Pattern）
     
-    > 访问者模式：在不改变数据结构的前提下，增加作用于一组对象元素的新功能。（Visitor Pattern）
+    *> 访问者模式：在不改变数据结构的前提下，增加作用于一组对象元素的新功能。（Visitor Pattern）
     
-    > 责任链模式：将请求的发送者和接收者解耦，使的多个对象都有处理这个请求的机会。（Chain of Responsibility Pattern）
+    *> 责任链模式：将请求的发送者和接收者解耦，使的多个对象都有处理这个请求的机会。（Chain of Responsibility Pattern）
     
-    > 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
+    *> 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
     
-    > **空对象模式（Null Object Pattern）
+    *> **空对象模式（Null Object Pattern）
     
 **参考资料:[JAVA设计模式总结之23种设计模式](https://www.cnblogs.com/pony1223/p/7608955.html)**
 

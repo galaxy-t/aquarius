@@ -28,6 +28,7 @@
         <module>proxy</module>
         <module>facade</module>
         <module>flyweight</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
 </project>
