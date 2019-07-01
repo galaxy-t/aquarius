@@ -191,7 +191,7 @@
     
     *> 状态模式：允许一个对象在其对象内部状态改变时改变它的行为。（State Pattern）
     
-    *> 观察者模式：对象间的一对多的依赖关系。（Observer Pattern）
+    > 观察者模式：对象间的一对多的依赖关系。（Observer Pattern）
     
     > 备忘录模式：在不破坏封装的前提下，保持对象的内部状态。（Memento Pattern）
     
