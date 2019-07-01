@@ -183,11 +183,11 @@
 
     > 这些设计模式特别关注对象之间的通信。
 
-    *> 模板模式：定义一个算法结构，而将一些步骤延迟到子类实现。（Template Pattern）
+    > 模板模式：定义一个算法结构，而将一些步骤延迟到子类实现。（Template Pattern）
     
     > 解释器模式：给定一个语言，定义它的文法的一种表示，并定义一个解释器。（Interpreter Pattern）
     
-    *> 策略模式：定义一系列算法，把他们封装起来，并且使它们可以相互替换。（Strategy Pattern）
+    > 策略模式：定义一系列算法，把他们封装起来，并且使它们可以相互替换。（Strategy Pattern）
     
     > 状态模式：允许一个对象在其对象内部状态改变时改变它的行为。（State Pattern）
     
@@ -205,7 +205,7 @@
     
     > 迭代器模式：一种遍历访问聚合对象中各个元素的方法，不暴露该对象的内部结构。（Iterator Pattern）
     
-    *> **空对象模式（Null Object Pattern）
+    > 空对象模式（Null Object Pattern）
     
 **参考资料:[JAVA设计模式总结之23种设计模式](https://www.cnblogs.com/pony1223/p/7608955.html)**
 
